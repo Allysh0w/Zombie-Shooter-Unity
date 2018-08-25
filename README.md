@@ -1,2 +1,2 @@
 Zombie Shooter
-![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshots/Screenshot_1.png)
